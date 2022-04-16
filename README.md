@@ -13,12 +13,6 @@ Somethings about me:
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p>
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://suyashsonawane.github.io/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SuyashYSonawane) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://towardsdatascience.com/@suyashsonawane)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suyash-sonawane-44661417b/)
-
 </p>
 
 </details>
