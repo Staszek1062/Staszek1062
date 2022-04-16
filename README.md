@@ -4,16 +4,6 @@
 <br/>
 
 
-Somethings about me:
-
-
-
-
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
-
-<p>
-</p>
 
 </details>
 <br/>
