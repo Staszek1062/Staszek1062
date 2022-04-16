@@ -7,11 +7,7 @@
 Somethings about me:
 
 
-- 🦸‍♂️ Lead 2020 at Google Developer Student Club Pimpri Chinchwad College of Engineering
-- 🦸‍♂️ Microsoft Student Ambassador
-- 👨‍💻 Co-Founder of DevsCollab
-- 🔭 Worked on GANS for Fake Video Detection as AI Intern at CDAC
-- ⚡ Fun fact: Foodie, 日本語を学ぶ
+
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
