@@ -8,7 +8,7 @@
 </details>
 <br/>
 Visitors <br/>
-[<img src ="https://profile-counter.glitch.me/Staszek1062/count.svg" title="">](https://Staszek1062.github.io/)
+<img src ="https://profile-counter.glitch.me/Staszek1062/count.svg" title="">
 <br/>
 
 ---
