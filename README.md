@@ -2,7 +2,7 @@
 
 
 <br/>
-<h3>I'm learning Java programming language for a couple of months now. I have a lot of enthusiasm for it, I know the "basics" concepts. Honestly dunno if i know enough to even say that.
+<h3>I'm learning Java programming language. I have a lot of enthusiasm for it, I know the basics concepts.
 At this moment i'm trying to familiarize myself with java framework Spring and doing code challenges.</h3>
 
 I'm working on Group project : Restaurant Hub application 
